@@ -1,0 +1,7 @@
+2c3baf26-f776-386a-ab9f-234f8c9a00ed 0.1
+org.openscience.cdk.qsar.descriptors.atomic.AtomDegreeDescriptor
+org.openscience.cdk.qsar.descriptors.atomic.AtomHybridizationVSEPRDescriptor
+org.openscience.cdk.qsar.descriptors.atomic.DistanceToAtomDescriptor;0
+org.openscience.cdk.qsar.descriptors.atomic.EffectiveAtomPolarizabilityDescriptor
+org.openscience.cdk.qsar.descriptors.atomic.InductiveAtomicHardnessDescriptor
+org.openscience.cdk.qsar.descriptors.atomic.IsProtonInAromaticSystemDescriptor;true
